@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👋 I'm Ebubekir Yılmaz
+- 🌱 I’m currently learning Front-End Web Development skills
+- 📫 How to reach me: ebu.1205ed@gmail.com
+
+
 <!--
 **Abou1205/Abou1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
