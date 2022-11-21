@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 👋 I'm Ebubekir Yılmaz
-- 🌱 I’m currently learning Front-End Web Development skills
+- 🔭 I'm interested in Front-End Web Development
+- 🌱 I'm trying to improve myself in the area of Front-End
 - 📫 How to reach me: ebu.1205ed@gmail.com
 
 
