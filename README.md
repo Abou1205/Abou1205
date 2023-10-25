@@ -1,10 +1,10 @@
-<!-- ### Hi there 👋
+### Hi there 👋
 
 - 👋 I'm Ebubekir Yılmaz
 - 🔭 I'm interested in Front-End Web Development
 - 🌱 I'm trying to improve myself in the area of Front-End
 - 📫 How to reach me: ebu.1205ed@gmail.com
--->
+
 
 <!--
 **Abou1205/Abou1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hi 👋, I'm Ebubekir</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
