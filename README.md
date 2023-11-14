@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ebubekir Yılmaz</h1>
 <h3 align="center">I am a junior web developer with the expertise to build a compelling online presence from the ground up. Proficient in various aspects of web development, I excel in conceptualizing, designing, and programming user-friendly websites. My skills extend to crafting elegant code using current best practices, ensuring seamless user experiences and optimal search engine visibility.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I am currently enhancing my skills in the field of software development.
 
 - 📫 How to reach me **ebu1205ed@gmail.com**
 
