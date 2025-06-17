@@ -106,11 +106,6 @@ while (coding) {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abou1205&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abou1205&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
 ## 🌟 What I Do Best
 
 <div align="center">
