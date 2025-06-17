@@ -102,10 +102,6 @@ while (coding) {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abou1205&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abou1205&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
 ## 🌟 What I Do Best
 
 <div align="center">
