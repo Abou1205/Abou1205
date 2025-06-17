@@ -122,7 +122,7 @@ while (coding) {
         <br>Building robust APIs and server-side solutions
       </td>
       <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/219923831-2fda79a1-8c9c-4e1d-9c2e-e33b6b8e2ef6.gif" width="100"/>
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100"/>
         <br><strong>Full Stack Solutions</strong>
         <br>End-to-end development from concept to deployment
       </td>
